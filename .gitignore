@@ -1,0 +1,14 @@
+# Project exclude paths
+/springcloudtest-api/target/
+/springcloudtest-custom-dept-80/target/
+/springcloudtest-custom-hystrix-dashboard/target/
+/springcloudtest-dept-feign/target/
+/springcloudtest-dept-hystrix-8001/target/
+/springcloudtest-dept_8001/target/
+/springcloudtest-dept_8002/target/
+/springcloudtest-dept_8003/target/
+/springcloudtest-eureka-7001/target/
+/springcloudtest-eureka-7002/target/
+/springcloudtest-eureka-7003/target/
+/springcloudtest-zuul-geteway-9527/target/
+/target/
